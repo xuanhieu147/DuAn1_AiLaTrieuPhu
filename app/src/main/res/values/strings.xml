@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">DuAn1</string>
+    <string name="app_name">AiLaTrieuPhu</string>
+    <string name="finish1">Bạn đã dành được </string>
+    <string name="finish2">Cảm ơn bạn đã đến với chúng tôi và chúc bạn thành công trong cuộc sống !!!</string>
+    <string name="batdau">Bạn sẽ phải làm gì? Bạn sẽ phải vượt qua 15 câu hỏi của chương trình
+Và sẽ có 3 mốc rất quan trong là 5, 10 và 15 đầu tiên chúng ta phải vượt qua. Bạn có những sự trợ giúp
+        rất đắc lực là: 50/50, gọi điện thoại cho người thân và hỏi ý kiến khán giả trong trường quay.
+Bạn đã nắm rõ luật của chương trình? Đã sẵn sàng chơi với chúng tôi chưa? </string>
+    <string name="answer">Bạn nên chọn đáp án: </string>
 </resources>
