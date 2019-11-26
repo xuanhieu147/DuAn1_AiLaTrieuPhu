@@ -1,4 +1,4 @@
-package com.xuanhieu.duan1;
+package com.example.duan1;
 
 public class Question  {
     private int id;
