@@ -1,4 +1,4 @@
-package com.example.duan1;
+package com.example.duan.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -13,6 +13,10 @@ import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.example.duan.DataBase.MyDatabase;
+import com.example.duan.Question;
+import com.example.duan.R;
 
 import java.util.ArrayList;
 import java.util.Random;

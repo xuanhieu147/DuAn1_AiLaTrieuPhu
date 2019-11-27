@@ -1,4 +1,4 @@
-package com.example.duan1;
+package com.example.duan.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,6 +6,8 @@ import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+
+import com.example.duan.R;
 
 public class HelpActivity extends AppCompatActivity {
     private Button btnReady;

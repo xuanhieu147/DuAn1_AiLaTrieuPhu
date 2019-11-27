@@ -1,6 +1,6 @@
-package com.example.duan1;
+package com.example.duan;
 
-public class Question  {
+public class Question {
     private int id;
     private String question;
     private String caseA;
@@ -8,6 +8,9 @@ public class Question  {
     private String caseC;
     private String caseD;
     private int trueCase;
+
+    public Question() {
+    }
 
     public Question(int id, String question, String caseA, String caseB, String caseC, String caseD, int trueCase) {
         this.id = id;

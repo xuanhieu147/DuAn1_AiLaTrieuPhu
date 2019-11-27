@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.duan1">
+    package="com.example.duan">
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <application
         android:allowBackup="true"
@@ -9,9 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
-        <activity android:name="com.example.duan1.HelpActivity"></activity>
-        <activity android:name="com.example.duan1.StartActivity" />
-        <activity android:name="com.example.duan1.MainActivity">
+        <activity android:name="com.example.duan.Activity.HelpActivity"></activity>
+        <activity android:name="com.example.duan.Activity.StartActivity" />
+        <activity android:name="com.example.duan.Activity.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
