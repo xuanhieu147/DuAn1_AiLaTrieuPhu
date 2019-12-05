@@ -5,10 +5,9 @@ import android.database.Cursor;
 import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.os.Environment;
 import android.util.Log;
 
-import com.example.duan.Question;
+import com.example.duan.Model.Question;
 
 import java.io.File;
 import java.io.FileOutputStream;

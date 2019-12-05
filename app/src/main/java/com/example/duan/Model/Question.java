@@ -1,4 +1,4 @@
-package com.example.duan;
+package com.example.duan.Model;
 
 public class Question {
     private int id;
